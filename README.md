@@ -12,3 +12,6 @@ Este es mi primer repositorio funcional creado desde la terminal.
 ## 📁 Archivos subidos:
 - index.html
 PRUEBA PARA COMMIT
+
+### Día 4: Aprendí a usar ramas, merge y resolver conflictos.
+
